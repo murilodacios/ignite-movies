@@ -21,7 +21,6 @@ interface ContentProps {
 
 export function Content(props: ContentProps) {
 
-
   return (
     <div className="container">
         <header>
